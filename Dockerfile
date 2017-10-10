@@ -1,1 +1,1 @@
-FROM jikuma/nanoserver
+FROM jikuma/vsts-vsallin-agent
