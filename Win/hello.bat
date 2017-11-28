@@ -1,1 +1,1 @@
-asadasd ECHO Hello World! 1>&2
+ECHO Hello World! 1>&2
